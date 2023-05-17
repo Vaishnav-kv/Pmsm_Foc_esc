@@ -1,0 +1,423 @@
+Archive member included to satisfy reference by file (symbol)
+
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2CScopeWrapper.o)
+                              build/default/production/_ext/973894394/X2CScope.o (X2CScope_Initialise)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(BlockServicesX2C.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2CScopeWrapper.o) (addBlockServices)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(LNet.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2CScopeWrapper.o) (initLNet)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(SerialGeneric.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2CScopeWrapper.o) (initSerialGeneric)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(Services.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(BlockServicesX2C.o) (sendError)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(TableStruct.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2CScopeWrapper.o) (initTableStruct)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(VersionInfo.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2CScopeWrapper.o) (initVersionInfo)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2C.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2CScopeWrapper.o) (X2C_Init)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(Scope_Main.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2C.o) (Scope_Main_Init)
+..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(CommonFcts.o)
+                              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(Scope_Main.o) (getAbsValI32)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libpic32c.a(data_init.o)
+                              build/default/production/_ext/1171490990/startup_xc32.o (__pic32c_data_initialization)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libm-emfloat.a(floatasmops_arm.o)
+                              build/default/production/_ext/1230231311/mc_ramp_profiler.o (__aeabi_fadd)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__libc_start_main.o)
+                              build/default/production/_ext/1171490990/startup_xc32.o (__libc_init_array)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(libc.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__libc_start_main.o) (__progname_full)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(stdin.o)
+                              build/default/production/_ext/1171490990/initialization.o (_stdin)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(stdout.o)
+                              build/default/production/_ext/1171490990/initialization.o (_stdout)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(setbuf.o)
+                              build/default/production/_ext/1171490990/initialization.o (setbuf)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(memcpy.o)
+                              build/default/production/_ext/1593096446/plib_nvmctrl.o (memcpy)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__environ.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__libc_start_main.o) (__environ)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_init_needed.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(stdout.o) (__io_init_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_rw_needed.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(stdin.o) (__io_rw_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_read.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(stdin.o) (__stdio_read)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__towrite_rw.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_rw_needed.o) (__towrite_rw_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(setvbuf.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(setbuf.o) (setvbuf)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(readv.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_read.o) (readv)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(malloc.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(setvbuf.o) (malloc)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(expand_heap.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(malloc.o) (__expand_heap)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__fopen_rw.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_rw_needed.o) (__fopen_rw_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__ftello_rw.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_rw_needed.o) (__ftello_adj_rw_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__init_stdio.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_init_needed.o) (__init_stdio_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_buf_needed.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_rw_needed.o) (__io_buf_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_file_needed.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_init_needed.o) (__io_file_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_std_needed.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_buf_needed.o) (__io_std_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__out.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__fopen_rw.o) (__stdio_write_unbuffered)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__putc.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_buf_needed.o) (__putc_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stderr.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_std_needed.o) (__init_stderr_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_close.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__fopen_rw.o) (__stdio_close_rw)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_exit.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_buf_needed.o) (__stdio_exit_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_write.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(setvbuf.o) (__stdio_write_buffered)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdout.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_std_needed.o) (__init_stdout_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__towrite.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_write.o) (__towrite)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(putc.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__putc.o) (__putc_unbuffered)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(memset.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__fopen_rw.o) (memset)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(writev.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_write.o) (writev)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__errno_location.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(malloc.o) (__errno_val)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__overflow.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__putc.o) (__overflow)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__fclose.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_buf_needed.o) (__fclose_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__fopen.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_std_needed.o) (__fopen_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__fseeko.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_buf_needed.o) (__fseeko_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__ftello.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_buf_needed.o) (__ftello_adj_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__fwrite.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__io_std_needed.o) (__fwrite_needed)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              build/default/production/_ext/1230231311/mc_generic_library.o (__aeabi_uidiv)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              build/default/production/_ext/1230231311/mc_generic_library.o (__aeabi_idiv)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_lshrdi3.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(malloc.o) (__aeabi_llsr)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_ashldi3.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(malloc.o) (__aeabi_llsl)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              build/default/production/_ext/504274921/plib_sercom3_usart.o (__aeabi_uldivmod)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o) (__clzdi2)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o) (__clzsi2)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libpic32c.a(close.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_close.o) (close)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libpic32c.a(lseek.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(__stdio_close.o) (lseek)
+c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libpic32c.a(sbrk.o)
+                              c:/program files/microchip/xc32/v4.10/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/thumb/v6-m/nofp\libc-musl.a(expand_heap.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+TScope              0x78              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2C.o)
+TheTableStruct      0x30              ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(X2CScopeWrapper.o)
+ScopeArray          0x2000            ..\src\config\default\X2CCode\X2CScope\lib\libCORTEXM0PLUS_X2CScope.a(Scope_Main.o)
+
+Microchip PIC32 Memory-Usage Report
+
+ROM Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.vectors                         0           0xac         172   
+.text                         0xac           0x20          32  App's exec code 
+.dinit                        0xcc         0x14d0        5328   
+.text                       0x159c         0x1748        5960  App's exec code 
+.rodata.library_tbact       0x2ce4          0x204         516   
+.rodata.sin_table           0x2ee8          0x204         516   
+.text.mcSupI_OpenLoopSt     0x30ec          0x1c4         452   
+.text.mcSupI_OpenLoopSt     0x32b0          0x1c0         448   
+.text.mcSpeI_SpeedRegul     0x3470          0x188         392   
+.text.malloc                0x35f8          0x178         376   
+.text.__aeabi_fadd          0x3770          0x13c         316   
+.text                       0x38ac          0x134         308  App's exec code 
+.text.CLOCK_Initialize      0x39e0           0xf4         244   
+.text.mcRpo_SetObserver     0x3ad4           0xe8         232   
+.text.mcRpoI_RotorPosit     0x3bbc           0xe4         228   
+.text.mcLib_PiControlle     0x3ca0           0xde         222   
+.text.Dummy_Handler         0x3d7e            0x2           2   
+.text.mcPwmI_PulseWidth     0x3d80           0xd8         216   
+.text                       0x3e58           0xd4         212  App's exec code 
+.text.free                  0x3f2c           0xcc         204   
+.text.mcFco_InterruptAn     0x3ff8           0xbc         188   
+.text.mcLib_FloatToIQ       0x40b4           0xb8         184   
+.text.__aeabi_fmul          0x416c           0xb8         184   
+.text.PORT_Initialize       0x4224           0xb4         180   
+.rodata                     0x42d8           0xac         172  Read-only const 
+.text.mcRegI_CurrentReg     0x4384           0xa8         168   
+.text                       0x442c           0xa8         168  App's exec code 
+.text.mcMocI_MotorContr     0x44d4          0x114         276   
+.text.mcCurI_CurrentCal     0x4578           0x94         148   
+.text.__aeabi_fdiv          0x460c           0x94         148   
+.rodata                     0x46a0           0x90         144  Read-only const 
+.text.__pic32c_data_ini     0x4730           0x90         144   
+.text                       0x47c0           0x8c         140  App's exec code 
+.text.__write_buffered      0x484c           0x82         130   
+.text.NonMaskableInt_Ha     0x48ce            0x2           2   
+.rodata                     0x48d0           0x80         128  Read-only const 
+.text.__stdio_write_buf     0x4950           0x7c         124   
+.text.mcVolI_VoltageCal     0x49cc           0x78         120   
+.text.mcPwmI_PulseWidth     0x4a44           0x6c         108   
+.rodata                     0x4ab0           0x68         104  Read-only const 
+.text.__stdio_read          0x4b18           0x64         100   
+.text.SYS_Initialize        0x4b7c           0x60          96   
+.text.__stdio_close_rw      0x4bdc           0x60          96   
+.text.__libc_start_init     0x4c3c           0x5c          92   
+.rodata                     0x4c98           0x5c          92  Read-only const 
+.text.ADC0_Initialize       0x4cf4           0x58          88   
+.text.TCC0_PWMInitializ     0x4d4c           0x58          88   
+.text.mcFcoI_Applicatio     0x4da4           0x54          84   
+.text.SERCOM3_USART_Rea     0x4df8           0x54          84   
+.text.mcMocI_MotorContr     0x4e4c           0x50          80   
+.rodata                     0x4e9c           0x50          80  Read-only const 
+.text.ADC1_Initialize       0x4eec           0x50          80   
+.text.setvbuf               0x4f3c           0x50          80   
+.text.unbin                 0x4f8c           0x50          80   
+.text                       0x4fdc           0xe0         224  App's exec code 
+.rodata                     0x50bc           0x48          72  Read-only const 
+.text.Reset_Handler         0x5104           0x48          72   
+.text.mcSupI_OpenLoopSt     0x514c           0x44          68   
+.text.SERCOM3_USART_Wri     0x5190           0x44          68   
+.text.__aeabi_dcmple        0x51d4           0x44          68   
+.text.__aeabi_dcmpge        0x5218           0x44          68   
+.rodata                     0x525c           0x40          64  Read-only const 
+.text.__aeabi_dcmpgt        0x529c           0x40          64   
+.text.__aeabi_dcmplt        0x52dc           0x40          64   
+.text.__aeabi_f2iz          0x531c           0x40          64   
+.text.adjust_size           0x535c           0x40          64   
+.text.mcFcoI_MotorContr     0x539c           0x4c          76   
+.text.mcFco_1stCycleInt     0x53d8           0x50          80   
+.text.mcMocI_MotorContr     0x5414           0x3c          60   
+.text.EIC_Initialize        0x5450           0x3c          60   
+.text.NVIC_Initialize       0x548c           0x3c          60   
+.text.bin_index             0x54c8           0x3c          60   
+.text.mcFco_2ndCycleInt     0x5504           0x4c          76   
+.text.mcLib_ButtonRespo     0x553c           0x38          56   
+.text.mcSpeI_SpeedContr     0x5574           0x38          56   
+.text.SERCOM3_USART_Ini     0x55ac           0x38          56   
+.text.mcRegI_CurrentReg     0x55e4           0x34          52   
+.text.mcFcoI_InterruptT     0x5618           0x34          52   
+.text.mcRpoI_RotorPosit     0x564c           0x34          52   
+.text.mcSpeI_SpeedRegul     0x5680           0x34          52   
+.text.__aeabi_fcmple        0x56b4           0x34          52   
+.text.__aeabi_fcmpge        0x56e8           0x34          52   
+.rodata                     0x571c           0x30          48  Read-only const 
+.text.__aeabi_fcmpgt        0x574c           0x30          48   
+.text.__aeabi_fcmplt        0x577c           0x30          48   
+.text.alloc_rev             0x57ac           0x30          48   
+.text._sbrk                 0x57dc           0x30          48   
+.text.alloc_fwd             0x580c           0x2e          46   
+.text.HardFault_Handler     0x583a            0x2           2   
+.text.mcMocI_MotorDirec     0x583c           0x2c          44   
+.text.mcMocI_MotorContr     0x5868           0x2c          44   
+.text.SERCOM3_USART_Err     0x5894           0x2c          44   
+.text.DIVAS_SquareRoot      0x58c0           0x2a          42   
+.text.__towrite_rw          0x58ea           0x2a          42   
+.text.TCC0_InterruptHan     0x5914           0x28          40   
+.text.__aeabi_i2f           0x593c           0x28          40   
+.text.__readv               0x5964           0x28          40   
+.text.__writev              0x598c           0x28          40   
+.text.trim                  0x59b4           0x26          38   
+.text.Dummy_App_Func        0x59da            0x2           2   
+.text.ADC0_InterruptHan     0x59dc           0x24          36   
+.text.EVSYS_Initialize      0x5a00           0x24          36   
+.text.X2CScope_Init         0x5a24           0x24          36   
+.rodata                     0x5a48           0x24          36  Read-only const 
+.text.__aeabi_f2uiz         0x5a6c           0x24          36   
+.text.read                  0x5a90           0x22          34   
+.text.__dummy               0x5ab2            0x2           2   
+.text.TCC0_PWMPatternSe     0x5ab4           0x20          32   
+.text.receiveSerial         0x5ad4           0x20          32   
+.text                       0x5af4           0x20          32  App's exec code 
+.text.__aeabi_ui2f          0x5b14           0x20          32   
+.text.lock_bin              0x5b34           0x20          32   
+.text.mcFcoI_10msThread     0x5b54           0x1c          28   
+.text.mcSpe_SpeedRampLi     0x5b70           0x1c          28   
+.text.TCC0_PWMStart         0x5b8c           0x1c          28   
+.text.write                 0x5ba8           0x1c          28   
+.text.__towrite             0x5bc4           0x1a          26   
+.text.__dummy               0x5bde            0x2           2   
+.text.mcFcoI_1msThreadT     0x5be0           0x18          24   
+.text.mcFcoI_100msThrea     0x5bf8           0x18          24   
+.text.mcFcoI_1000msThre     0x5c10           0x18          24   
+.text.mcMocI_MotorStart     0x5c28           0x18          24   
+.text.ADC0_Enable           0x5c40           0x18          24   
+.text.ADC0_ChannelSelec     0x5c58           0x18          24   
+.text.ADC1_ChannelSelec     0x5c70           0x18          24   
+.text.TCC0_PWM24bitPeri     0x5c88           0x18          24   
+.rodata                     0x5ca0           0x18          24  Read-only const 
+.text                       0x5cb8           0x30          48  App's exec code 
+.text.sendSerial            0x5ce8           0x16          22   
+.text.__expand_heap         0x5cfe           0x16          22   
+.text.mcErr_AssertionFa     0x5d14           0x14          20   
+.text.mcFcoI_ThreadTask     0x5d28           0x14          20   
+.rodata                     0x5d3c           0x14          20  Read-only const 
+.text.__init_stdout         0x5d50           0x14          20   
+.text.mcMocI_MotorStop      0x5d64           0x12          18   
+.text.main                  0x5d76           0x12          18   
+.text.setbuf                0x5d88           0x12          18   
+.text.memcpy                0x5d9a           0x12          18   
+.text.SERCOM3_USART_Tra     0x5dac           0x10          16   
+.text.SERCOM3_USART_Rec     0x5dbc           0x10          16   
+.text.__aeabi_fsub          0x5dcc           0x10          16   
+.text.__init_stdio          0x5ddc           0x10          16   
+.text.mcHalI_StartStopB     0x5dec            0xe          14   
+.text.mcErr_ErrorReacti     0x5dfa            0xc          12   
+.text.mcHalI_VoltageSou     0x5e06            0xc          12   
+.text.mcHalI_VoltageSou     0x5e12            0xc          12   
+.text.mcHal_FaultIndica     0x5e1e            0xc          12   
+.text.__dummy               0x5e2a            0x2           2   
+.text.ADC0_ConversionRe     0x5e2c            0xc          12   
+.text.ADC0_InterruptsCl     0x5e38            0xc          12   
+.text.ADC0_InterruptsEn     0x5e44            0xc          12   
+.text.ADC0_InterruptsDi     0x5e50            0xc          12   
+.text.ADC0_CallbackRegi     0x5e5c            0xc          12   
+.text.ADC1_ConversionRe     0x5e68            0xc          12   
+.text.NVMCTRL_Initializ     0x5e74            0xc          12   
+.text.TCC0_PWMCallbackR     0x5e80            0xc          12   
+.text                       0x5e8c            0xc          12  App's exec code 
+.text.__fwrite_min          0x5e98            0xa          10   
+.text.mcHalI_ADCEnable      0x5ea2            0x8           8   
+.text.mcHalI_PwmTimerSt     0x5eaa            0x8           8   
+.text.mcHalI_AdcCallBac     0x5eb2            0x8           8   
+.text.mcHalI_PwmCallBac     0x5eba            0x8           8   
+.text.PMSM_FOC_Initiali     0x5ec2            0x8           8   
+.text.PMSM_FOC_Tasks        0x5eca            0x8           8   
+.text.isReceiveDataAvai     0x5ed2            0x8           8   
+.text.isSendReady           0x5eda            0x8           8   
+.text.__get_stdout          0x5ee4            0x8           8   
+.text.close                 0x5eec            0x8           8   
+.text.mcLib_PiControlle     0x5ef4            0x6           6   
+.text.__dummy               0x5efa            0x6           6   
+.text.mcLib_PiControlle     0x5f00            0x4           4   
+.text                       0x5f04            0x4           4  App's exec code 
+.text.lseek                 0x5f08            0x4           4   
+      Total ROM used  :      0x5fb2       24498  18.7% of 0x20000
+        --------------------------------------------------------------------------
+         Total Program Memory used  :      0x5fb2       24498  18.7% of 0x20000
+        --------------------------------------------------------------------------
+
+
+RAM Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.bss                    0x20000000         0x20a8        8360  Uninitialized data 
+.bss                    0x200020a8          0x618        1560  Uninitialized data 
+.RAMFUNC$               0x200026c0          0xd80        3456   
+.bss.mcHalI_DcBusVoltag 0x200033ce            0x2           2   
+.bss                    0x200033d0          0x148         328  Uninitialized data 
+.data                   0x20003518           0x78         120  Initialized data 
+.bss                    0x20003590           0x6c         108  Uninitialized data 
+.bss.mcFco_1000msInterr 0x200035fc            0x4           4   
+.data                   0x20003600           0x68         104  Initialized data 
+.bss                    0x20003668           0x50          80  Uninitialized data 
+.data.mcRpoI_ConfigPara 0x200036b8           0x4c          76   
+.bss.mcRpo_StateVariabl 0x20003704           0x48          72   
+.data.mcRegI_Configurat 0x2000374c           0x38          56   
+.data.mcSpeI_ConfigPara 0x20003784           0x38          56   
+.data.mcSupI_Configurat 0x200037bc           0x2c          44   
+.data.mcCurI_Configurat 0x200037e8           0x28          40   
+.bss.mcRpo_ObserverCoef 0x20003810           0x28          40   
+.bss.mcRpo_Parameters_m 0x20003838           0x20          32   
+.data.mcVolI_Configurat 0x20003858           0x20          32   
+.data                   0x20003878           0x20          32  Initialized data 
+.bss                    0x20003898           0x1c          28  Uninitialized data 
+.bss.mcReg_IdController 0x200038b4           0x1c          28   
+.bss.mcReg_IqController 0x200038d0           0x1c          28   
+.bss.mcSpe_SpeedControl 0x200038ec           0x1c          28   
+.bss.mcMoc_StateSignal_ 0x20003908           0x18          24   
+.bss.mcPwm_StatePorts_m 0x20003920           0x18          24   
+.bss.mcRpo_InputPorts_m 0x20003938           0x18          24   
+.bss.mcSup_Parameters_m 0x20003950           0x18          24   
+.bss.mcReg_InputPorts_m 0x20003968           0x14          20   
+.bss.mcCur_OutputPorts_ 0x2000397c           0x10          16   
+.bss.mcCur_StateVariabl 0x2000398c           0x10          16   
+.bss.mcRpo_OutputPorts_ 0x2000399c           0x10          16   
+.bss.mcSpe_InputPorts_m 0x200039ac           0x10          16   
+.bss.mcPwm_OutputPorts_ 0x200039bc            0xc          12   
+.bss.mcPwm_Parameters_m 0x200039c8            0xc          12   
+.data.mcPwmI_ConfigPara 0x200039d4            0xc          12   
+.bss.mcSup_OutputPorts_ 0x200039e0            0xc          12   
+.bss.mcVol_OutputPorts_ 0x200039ec            0xc          12   
+.bss.mcSpe_Parameters_m 0x200039f8            0xa          10   
+.bss.mcHalI_PhaseACurre 0x20003a02            0x2           2   
+.bss.mcReg_OutputPorts_ 0x20003a04            0x8           8   
+.bss.mcCur_InputPorts_m 0x20003a0c            0x8           8   
+.bss.mcCur_Parameters_m 0x20003a14            0x8           8   
+.data.InterruptTasks    0x20003a1c            0x8           8   
+.bss.button_S2_data     0x20003a24            0x8           8   
+.bss.button_S3_data     0x20003a2c            0x8           8   
+.bss.mcPwm_InputPorts_m 0x20003a34            0x8           8   
+.bss.mcSpe_OutputPorts_ 0x20003a3c            0x8           8   
+.bss.mcSpe_StateVariabl 0x20003a44            0x8           8   
+.bss.ADC0_CallbackObjec 0x20003a4c            0x8           8   
+.bss.TCC0_CallbackObj   0x20003a54            0x8           8   
+.bss                    0x20003a5c           0x10          16  Uninitialized data 
+.bss.mcCurI_PhaseCurren 0x20003a6c            0x6           6   
+.bss.mcHalI_PhaseBCurre 0x20003a72            0x2           2   
+.bss.mcSup_StateVariabl 0x20003a74            0x6           6   
+.bss.mcHalI_Potentiomet 0x20003a7a            0x2           2   
+.bss.mcFco_100msInterru 0x20003a7c            0x4           4   
+.bss.mcFco_10msInterrup 0x20003a80            0x4           4   
+.bss.mcFco_1msInterrupt 0x20003a84            0x4           4   
+.bss.mcMocI_AlphaBetaVo 0x20003a88            0x4           4   
+.bss.mcMocI_DQVoltage_g 0x20003a8c            0x4           4   
+.bss.mcMocI_FeedbackAlp 0x20003a90            0x4           4   
+.bss.mcMocI_FeedbackDQC 0x20003a94            0x4           4   
+.bss.mcVol_InputPorts_m 0x20003a98            0x4           4   
+.bss.mcVol_Parameters_m 0x20003a9c            0x4           4   
+.data                   0x20003aa0            0x4           4  Initialized data 
+.bss                    0x20003aa4           0x10          16  Uninitialized data 
+.bss.mcMocI_SpaceVector 0x20003ab4            0x2           2   
+.bss.mcRpoI_BackEmfMagn 0x20003ab6            0x2           2   
+.bss.mcRpoI_ElectricalR 0x20003ab8            0x2           2   
+.bss.mcRpoI_ElectricalR 0x20003aba            0x2           2   
+.bss.mcRpoI_ElectricalR 0x20003abc            0x2           2   
+.bss.mcSpeI_ReferenceEl 0x20003abe            0x2           2   
+.bss.mcSpeI_ReferenceId 0x20003ac0            0x2           2   
+.bss.mcSpeI_ReferenceIq 0x20003ac2            0x2           2   
+.bss.mcVolI_DcBusVoltag 0x20003ac4            0x2           2   
+.bss.mcVolI_DcBusVoltag 0x20003ac6            0x2           2   
+.bss.mcVolI_UacPeakVolt 0x20003ac8            0x2           2   
+.bss.mcErrI_ErrorLogged 0x20003aca            0x1           1   
+.bss.index.7667         0x20003acb            0x1           1   
+.bss.mcFco_1000msInterr 0x20003acc            0x1           1   
+.bss.mcFco_100msInterru 0x20003acd            0x1           1   
+.bss.mcFco_10msInterrup 0x20003ace            0x1           1   
+.bss.mcFco_1msInterrupt 0x20003acf            0x1           1   
+.bss.mcCurI_CurrentOffs 0x20003ad0            0x1           1   
+.bss.mcMocI_MotorRunnin 0x20003ad1            0x1           1   
+.data.mcMocI_RotationSi 0x20003ad2            0x1           1   
+         Total RAM used  :      0x3b45       15173  92.6% of 0x4000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :      0x3b45       15173  92.6% of 0x4000
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                    0x20003ad8          0x200         512  Reserved for heap 
+stack                   0x20003cf0          0x300         768  Reserved for stack 
+
+        --------------------------------------------------------------------------
